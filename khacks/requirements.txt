@@ -1,0 +1,3 @@
+ortools==9.15.6755
+openai>=1.50,<3
+pytest>=8,<10
